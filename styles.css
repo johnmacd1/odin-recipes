@@ -1,0 +1,25 @@
+/* styles.css */
+
+* {
+    background-color:grey;
+    color:teal;
+}
+
+.container {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.recipe-links, li, h1, ul, a{
+   
+    background-color:white;
+    
+}
+
+.recipe-links {
+    margin:100px;
+    padding:100px;
+    border:10px;
+}
